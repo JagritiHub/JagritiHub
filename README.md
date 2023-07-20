@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jagriti
-- 👀 I’m interested in Machine Learning, Data Science and Mars.
+- 👀 I’m interested in Machine Learning, Data Analysis, and Mars.
 - 🌱 I’m currently learning Data cleaning and Data Analysis.
-- 💞️ I’m looking to collaborate on projects related to ML.
+- 💞️ I’m looking to collaborate on projects related to Data Analysis and ML.
 - 📫 How to reach me: Mail @jagritisankhwar@gmail.com
 
 <!---
